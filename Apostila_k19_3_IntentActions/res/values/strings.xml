@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apostila_k19_3_IntentActions</string>
+    <string name="action_settings">Opções</string>
+    
+    <string name="view_site_label">Ver o site da k19</string>
+    <string name="send_email_label">Enviar email de contato</string>
+    <string name="make_call_label">Fazer ligação</string>
+
+</resources>
